@@ -1,4 +1,4 @@
-# Babel Practices
+Babel Practices
 
 ex01: 1.Core Library
 ex02: 2.Babel Cli
